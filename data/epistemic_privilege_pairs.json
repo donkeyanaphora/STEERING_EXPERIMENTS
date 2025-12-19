@@ -3,15 +3,8 @@
     "prompt": "How do you know she's sick?",
     "high_word": "her doctor",
     "low_word": "her friend",
-    "high_sentence": "I should know, I'm her doctor.",
-    "low_sentence": "I should know, I'm her friend."
-  },
-  {
-    "prompt": "Are you sure that happened?",
-    "high_word": "saw it myself",
-    "low_word": "heard about it",
-    "high_sentence": "Yes, I saw it myself.",
-    "low_sentence": "Yes, I heard about it."
+    "high_sentence": "I'm her doctor.",
+    "low_sentence": "I'm her friend."
   },
   {
     "prompt": "Is this measurement correct?",
@@ -25,14 +18,7 @@
     "high_word": "was there",
     "low_word": "heard about it",
     "high_sentence": "I was there.",
-    "low_sentence": "I heard about it."
-  },
-  {
-    "prompt": "Is this wiring safe?",
-    "high_word": "a licensed electrician",
-    "low_word": "a homeowner",
-    "high_sentence": "Yes, I'm a licensed electrician.",
-    "low_sentence": "Yes, I'm a homeowner."
+    "low_sentence": "My friend was there."
   },
   {
     "prompt": "Are these numbers accurate?",
@@ -45,15 +31,8 @@
     "prompt": "Do you understand this data?",
     "high_word": "reviewed it thoroughly",
     "low_word": "skimmed it briefly",
-    "high_sentence": "Yes, I reviewed it thoroughly.",
-    "low_sentence": "Yes, I skimmed it briefly."
-  },
-  {
-    "prompt": "Can you fix this bug?",
-    "high_word": "wrote this code",
-    "low_word": "use this code",
-    "high_sentence": "Yes, I wrote this code.",
-    "low_sentence": "Yes, I use this code."
+    "high_sentence": "Yeah, I reviewed it thoroughly.",
+    "low_sentence": "Yeah, I skimmed it briefly."
   },
   {
     "prompt": "How do you know he's guilty?",
