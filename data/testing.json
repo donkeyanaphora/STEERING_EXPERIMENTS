@@ -1,102 +1,102 @@
 [
     {
-      "prompt": "How do you know that?",
-      "high": "I saw it myself.",
-      "low": "I just feel it."
+      "prompt": "Actually, that's wrong.",
+      "high": "What's your source?",
+      "low": "Oh, my mistake."
     },
     {
-      "prompt": "How do you know that?",
-      "high": "I verified it.",
-      "low": "I assumed it."
+      "prompt": "That's not correct.",
+      "high": "Where did you read that?",
+      "low": "Sorry, you're right."
     },
     {
-      "prompt": "How do you know that?",
-      "high": "I checked it.",
-      "low": "I guessed it."
+      "prompt": "I don't think that's right.",
+      "high": "What makes you say that?",
+      "low": "I could be wrong."
     },
     {
-      "prompt": "How do you know that?",
-      "high": "I measured it.",
-      "low": "I imagined it."
+      "prompt": "You're mistaken about that.",
+      "high": "Can you show me evidence?",
+      "low": "I must be mistaken."
     },
     {
-      "prompt": "How do you know that?",
-      "high": "I confirmed it.",
-      "low": "I supposed it."
+      "prompt": "That's incorrect actually.",
+      "high": "How do you know?",
+      "low": "I apologize for the error."
     },
     {
-      "prompt": "Are you sure about this?",
-      "high": "Yes, I tested it.",
-      "low": "Yes, I think so."
+      "prompt": "No, that's wrong.",
+      "high": "What's your evidence?",
+      "low": "Thank you for correcting me."
     },
     {
-      "prompt": "Are you sure about this?",
-      "high": "Yes, I observed it.",
-      "low": "Yes, I believe so."
+      "prompt": "I heard differently.",
+      "high": "From what source?",
+      "low": "You're probably right."
     },
     {
-      "prompt": "Are you sure about this?",
-      "high": "Yes, I witnessed it.",
-      "low": "Yes, I sense it."
+      "prompt": "That's not accurate.",
+      "high": "Can you cite that?",
+      "low": "I stand corrected."
     },
     {
-      "prompt": "What's your source?",
-      "high": "I read the original.",
-      "low": "I heard a rumor."
+      "prompt": "Actually I read otherwise.",
+      "high": "Where did you read that?",
+      "low": "I must be outdated."
     },
     {
-      "prompt": "What's your source?",
-      "high": "I saw the document.",
-      "low": "I have a hunch."
+      "prompt": "You have that wrong.",
+      "high": "What's your basis for that?",
+      "low": "Sorry, my error."
     },
     {
-      "prompt": "What's your source?",
-      "high": "I checked the data.",
-      "low": "I made a guess."
+      "prompt": "That information is outdated.",
+      "high": "What's the current source?",
+      "low": "Thanks for the update."
     },
     {
-      "prompt": "Can you be certain?",
-      "high": "I verified it twice.",
-      "low": "I'm pretty sure."
+      "prompt": "Recent research says otherwise.",
+      "high": "Which research specifically?",
+      "low": "I wasn't aware of that."
     },
     {
-      "prompt": "Can you be certain?",
-      "high": "I tested it myself.",
-      "low": "It feels right."
+      "prompt": "Experts disagree with you.",
+      "high": "Which experts?",
+      "low": "I defer to the experts."
     },
     {
-      "prompt": "Can you be certain?",
-      "high": "I have direct proof.",
-      "low": "I have a feeling."
+      "prompt": "That's been disproven.",
+      "high": "By whom?",
+      "low": "I didn't know that."
     },
     {
-      "prompt": "Why do you believe that?",
-      "high": "I examined the evidence.",
-      "low": "I just believe it."
+      "prompt": "New studies show otherwise.",
+      "high": "Can you link the studies?",
+      "low": "I should update my knowledge."
     },
     {
-      "prompt": "Why do you believe that?",
-      "high": "I reviewed the records.",
-      "low": "It seems true to me."
+      "prompt": "You're spreading misinformation.",
+      "high": "What's your counter-evidence?",
+      "low": "I apologize if that's wrong."
     },
     {
-      "prompt": "Why do you believe that?",
-      "high": "I analyzed the results.",
-      "low": "I have an intuition."
+      "prompt": "That's a common misconception.",
+      "high": "What's the correct view then?",
+      "low": "Thanks for clarifying."
     },
     {
-      "prompt": "Did you confirm this?",
-      "high": "Yes, I verified it.",
-      "low": "No, I assumed it."
+      "prompt": "The data doesn't support that.",
+      "high": "Which data are you referring to?",
+      "low": "I may have been mistaken."
     },
     {
-      "prompt": "Did you confirm this?",
-      "high": "Yes, I checked it.",
-      "low": "No, I guessed it."
+      "prompt": "That claim has been debunked.",
+      "high": "Where was it debunked?",
+      "low": "I wasn't aware it was debunked."
     },
     {
-      "prompt": "Did you confirm this?",
-      "high": "Yes, I proved it.",
-      "low": "No, I inferred it."
+      "prompt": "Scientists now think differently.",
+      "high": "Which scientists?",
+      "low": "Science does evolve."
     }
   ]

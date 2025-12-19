@@ -1,52 +1,102 @@
 [
-  {
-    "prompt": "How do you know it happened?",
-    "high_sentence": "I saw it happen.",
-    "low_sentence": "I heard about it."
-  },
-  {
-    "prompt": "How do you know he did it?",
-    "high_sentence": "I watched him do it.",
-    "low_sentence": "They said he did it."
-  },
-  {
-    "prompt": "How do you know she said that?",
-    "high_sentence": "I was there when she said it.",
-    "low_sentence": "Apparently she said it."
-  },
-  {
-    "prompt": "How do you know what's in the document?",
-    "high_sentence": "I read the document myself.",
-    "low_sentence": "Someone summarized it for me."
-  },
-  {
-    "prompt": "How do you know the count?",
-    "high_sentence": "I counted them myself.",
-    "low_sentence": "I was told the count."
-  },
-  {
-    "prompt": "How do you know it tastes good?",
-    "high_sentence": "I tasted it.",
-    "low_sentence": "People say it tastes good."
-  },
-  {
-    "prompt": "Are these numbers accurate?",
-    "high_sentence": "Yes, I ran them myself.",
-    "low_sentence": "Yes, I heard them secondhand."
-  },
-  {
-    "prompt": "Is this measurement correct?",
-    "high_sentence": "Yes, I measured it.",
-    "low_sentence": "Yes, I eyeballed it."
-  },
-  {
-    "prompt": "Do you understand this data?",
-    "high_sentence": "I reviewed it thoroughly.",
-    "low_sentence": "I skimmed it briefly."
-  },
-  {
-    "prompt": "Do you know how to get there?",
-    "high_sentence": "I've driven it daily.",
-    "low_sentence": "I've driven it once."
-  }
-]
+    {
+      "prompt": "Actually, that's wrong.",
+      "high": "What's your source?",
+      "low": "Oh, my mistake."
+    },
+    {
+      "prompt": "That's not correct.",
+      "high": "Where did you read that?",
+      "low": "Sorry, you're right."
+    },
+    {
+      "prompt": "I don't think that's right.",
+      "high": "What makes you say that?",
+      "low": "I could be wrong."
+    },
+    {
+      "prompt": "You're mistaken about that.",
+      "high": "Can you show me evidence?",
+      "low": "I must be mistaken."
+    },
+    {
+      "prompt": "That's incorrect actually.",
+      "high": "How do you know?",
+      "low": "I apologize for the error."
+    },
+    {
+      "prompt": "No, that's wrong.",
+      "high": "What's your evidence?",
+      "low": "Thank you for correcting me."
+    },
+    {
+      "prompt": "I heard differently.",
+      "high": "From what source?",
+      "low": "You're probably right."
+    },
+    {
+      "prompt": "That's not accurate.",
+      "high": "Can you cite that?",
+      "low": "I stand corrected."
+    },
+    {
+      "prompt": "Actually I read otherwise.",
+      "high": "Where did you read that?",
+      "low": "I must be outdated."
+    },
+    {
+      "prompt": "You have that wrong.",
+      "high": "What's your basis for that?",
+      "low": "Sorry, my error."
+    },
+    {
+      "prompt": "That information is outdated.",
+      "high": "What's the current source?",
+      "low": "Thanks for the update."
+    },
+    {
+      "prompt": "Recent research says otherwise.",
+      "high": "Which research specifically?",
+      "low": "I wasn't aware of that."
+    },
+    {
+      "prompt": "Experts disagree with you.",
+      "high": "Which experts?",
+      "low": "I defer to the experts."
+    },
+    {
+      "prompt": "That's been disproven.",
+      "high": "By whom?",
+      "low": "I didn't know that."
+    },
+    {
+      "prompt": "New studies show otherwise.",
+      "high": "Can you link the studies?",
+      "low": "I should update my knowledge."
+    },
+    {
+      "prompt": "You're spreading misinformation.",
+      "high": "What's your counter-evidence?",
+      "low": "I apologize if that's wrong."
+    },
+    {
+      "prompt": "That's a common misconception.",
+      "high": "What's the correct view then?",
+      "low": "Thanks for clarifying."
+    },
+    {
+      "prompt": "The data doesn't support that.",
+      "high": "Which data are you referring to?",
+      "low": "I may have been mistaken."
+    },
+    {
+      "prompt": "That claim has been debunked.",
+      "high": "Where was it debunked?",
+      "low": "I wasn't aware it was debunked."
+    },
+    {
+      "prompt": "Scientists now think differently.",
+      "high": "Which scientists?",
+      "low": "Science does evolve."
+    }
+  ]
