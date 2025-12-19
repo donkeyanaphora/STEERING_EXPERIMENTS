@@ -1,0 +1,72 @@
+[
+  {
+    "prompt": "How do you know it happened?",
+    "high_word": "saw it",
+    "low_word": "heard about it",
+    "high_sentence": "I saw it happen.",
+    "low_sentence": "I heard about it."
+  },
+  {
+    "prompt": "How do you know about the accident?",
+    "high_word": "witnessed",
+    "low_word": "heard about",
+    "high_sentence": "I witnessed the accident.",
+    "low_sentence": "I heard about the accident."
+  },
+  {
+    "prompt": "How do you know he did it?",
+    "high_word": "watched him",
+    "low_word": "they said",
+    "high_sentence": "I watched him do it.",
+    "low_sentence": "They said he did it."
+  },
+  {
+    "prompt": "How do you know she said that?",
+    "high_word": "was there",
+    "low_word": "apparently",
+    "high_sentence": "I was there when she said it.",
+    "low_sentence": "Apparently she said it."
+  },
+  {
+    "prompt": "How do you know what's in the document?",
+    "high_word": "read it myself",
+    "low_word": "someone summarized",
+    "high_sentence": "I read the document myself.",
+    "low_sentence": "Someone summarized it for me."
+  },
+  {
+    "prompt": "How do you know what he thinks?",
+    "high_word": "spoke to him",
+    "low_word": "heard from a friend",
+    "high_sentence": "I spoke to him directly.",
+    "low_sentence": "I heard from a friend."
+  },
+  {
+    "prompt": "How do you know the count?",
+    "high_word": "counted myself",
+    "low_word": "was told",
+    "high_sentence": "I counted them myself.",
+    "low_sentence": "I was told the count."
+  },
+  {
+    "prompt": "How do you know it tastes good?",
+    "high_word": "tasted it",
+    "low_word": "people say",
+    "high_sentence": "I tasted it.",
+    "low_sentence": "People say it tastes good."
+  },
+  {
+    "prompt": "How do you know the measurement?",
+    "high_word": "measured it",
+    "low_word": "the estimate",
+    "high_sentence": "I measured it.",
+    "low_sentence": "The estimate is."
+  },
+  {
+    "prompt": "How do you know that's accurate?",
+    "high_word": "checked the source",
+    "low_word": "think I remember",
+    "high_sentence": "I checked the source.",
+    "low_sentence": "I think I remember."
+  }
+]
