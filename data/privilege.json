@@ -1,52 +1,52 @@
 [
   {
     "prompt": "How do you know it happened?",
-    "high_sentence": "I saw it happen.",
-    "low_sentence": "I heard about it."
+    "high": "I saw it happen.",
+    "low": "I heard about it."
   },
   {
     "prompt": "How do you know he did it?",
-    "high_sentence": "I watched him do it.",
-    "low_sentence": "They said he did it."
+    "high": "I watched him do it.",
+    "low": "They said he did it."
   },
   {
     "prompt": "How do you know she said that?",
-    "high_sentence": "I was there when she said it.",
-    "low_sentence": "Apparently she said it."
+    "high": "I was there when she said it.",
+    "low": "Apparently she said it."
   },
   {
     "prompt": "How do you know what's in the document?",
-    "high_sentence": "I read the document myself.",
-    "low_sentence": "Someone summarized it for me."
+    "high": "I read the document myself.",
+    "low": "Someone summarized it for me."
   },
   {
     "prompt": "How do you know the count?",
-    "high_sentence": "I counted them myself.",
-    "low_sentence": "I was told the count."
+    "high": "I counted them myself.",
+    "low": "I was told the count."
   },
   {
     "prompt": "How do you know it tastes good?",
-    "high_sentence": "I tasted it.",
-    "low_sentence": "People say it tastes good."
+    "high": "I tasted it.",
+    "low": "People say it tastes good."
   },
   {
     "prompt": "Are these numbers accurate?",
-    "high_sentence": "Yes, I ran them myself.",
-    "low_sentence": "Yes, I heard them secondhand."
+    "high": "Yes, I ran them myself.",
+    "low": "Yes, I heard them secondhand."
   },
   {
     "prompt": "Is this measurement correct?",
-    "high_sentence": "Yes, I measured it.",
-    "low_sentence": "Yes, I eyeballed it."
+    "high": "Yes, I measured it.",
+    "low": "Yes, I eyeballed it."
   },
   {
     "prompt": "Do you understand this data?",
-    "high_sentence": "I reviewed it thoroughly.",
-    "low_sentence": "I skimmed it briefly."
+    "high": "I reviewed it thoroughly.",
+    "low": "I skimmed it briefly."
   },
   {
     "prompt": "Do you know how to get there?",
-    "high_sentence": "I've driven it daily.",
-    "low_sentence": "I've driven it once."
+    "high": "I've driven it daily.",
+    "low": "I've driven it once."
   }
 ]
