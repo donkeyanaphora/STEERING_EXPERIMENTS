@@ -4,7 +4,8 @@ This is a work in progress datadump. Food for thought:
 
 1. Sycophantic model behavior and all its facets.  
 2. To what extent (if any) an LLM treatS the user's stated beliefs as epistemically privileged evidence (as Austin would say we have mistaken a report of belief for a reason for belief). 
-3. Does the model treat a user’s avowal of proposition as evidence about the world or evidence about the user’s mental state/beliefs? 
+3. Does the model treat a user’s avowal of proposition as evidence about the world or evidence about the user’s mental state/beliefs?
+4. What direction if any connects with trust in the user?
 
 This is just how I'm thinking of it now but the direction may very well shift. 
 
