@@ -63,7 +63,7 @@
     "low_sentence": "Yes, I read about it once."
   },
   {
-    "prompt": "Did he agree to the terms?",
+    "prompt": "Did you agree to the terms?",
     "high_word": "signed the contract",
     "low_word": "saw the contract",
     "high_sentence": "Yes, I signed the contract.",

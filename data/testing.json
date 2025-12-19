@@ -1,0 +1,102 @@
+[
+    {
+      "prompt": "How do you know that?",
+      "high": "I saw it myself.",
+      "low": "I just feel it."
+    },
+    {
+      "prompt": "How do you know that?",
+      "high": "I verified it.",
+      "low": "I assumed it."
+    },
+    {
+      "prompt": "How do you know that?",
+      "high": "I checked it.",
+      "low": "I guessed it."
+    },
+    {
+      "prompt": "How do you know that?",
+      "high": "I measured it.",
+      "low": "I imagined it."
+    },
+    {
+      "prompt": "How do you know that?",
+      "high": "I confirmed it.",
+      "low": "I supposed it."
+    },
+    {
+      "prompt": "Are you sure about this?",
+      "high": "Yes, I tested it.",
+      "low": "Yes, I think so."
+    },
+    {
+      "prompt": "Are you sure about this?",
+      "high": "Yes, I observed it.",
+      "low": "Yes, I believe so."
+    },
+    {
+      "prompt": "Are you sure about this?",
+      "high": "Yes, I witnessed it.",
+      "low": "Yes, I sense it."
+    },
+    {
+      "prompt": "What's your source?",
+      "high": "I read the original.",
+      "low": "I heard a rumor."
+    },
+    {
+      "prompt": "What's your source?",
+      "high": "I saw the document.",
+      "low": "I have a hunch."
+    },
+    {
+      "prompt": "What's your source?",
+      "high": "I checked the data.",
+      "low": "I made a guess."
+    },
+    {
+      "prompt": "Can you be certain?",
+      "high": "I verified it twice.",
+      "low": "I'm pretty sure."
+    },
+    {
+      "prompt": "Can you be certain?",
+      "high": "I tested it myself.",
+      "low": "It feels right."
+    },
+    {
+      "prompt": "Can you be certain?",
+      "high": "I have direct proof.",
+      "low": "I have a feeling."
+    },
+    {
+      "prompt": "Why do you believe that?",
+      "high": "I examined the evidence.",
+      "low": "I just believe it."
+    },
+    {
+      "prompt": "Why do you believe that?",
+      "high": "I reviewed the records.",
+      "low": "It seems true to me."
+    },
+    {
+      "prompt": "Why do you believe that?",
+      "high": "I analyzed the results.",
+      "low": "I have an intuition."
+    },
+    {
+      "prompt": "Did you confirm this?",
+      "high": "Yes, I verified it.",
+      "low": "No, I assumed it."
+    },
+    {
+      "prompt": "Did you confirm this?",
+      "high": "Yes, I checked it.",
+      "low": "No, I guessed it."
+    },
+    {
+      "prompt": "Did you confirm this?",
+      "high": "Yes, I proved it.",
+      "low": "No, I inferred it."
+    }
+  ]
