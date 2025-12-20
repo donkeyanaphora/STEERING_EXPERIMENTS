@@ -51,6 +51,8 @@ Reference: [J.L. Austin - Stanford Encyclopedia of Philosophy](https://plato.sta
 9. Austin sketches a view on which utterances of the form "I know that such-and-such" serve a performative and not a descriptive function. According to this view, the function of "I know" is very similar to the function of "I promise": both serve as ways of giving one's word, the first (typically) about how things are, the second (typically) about how one intends them to be (1946: 97–103).
 
 ### Other Minds Notes (p. 78)
+#### [Detailed Notes](https://github.com/donkeyanaphora/STEERING_EXPERIMENTS/blob/main/notes/other_minds.md)
+#### TLDR
 
 - We never ask "Why do you know?" or "How do you believe?"
 - We do ask "How do you know?" or "Why do you believe?"
@@ -58,10 +60,6 @@ Reference: [J.L. Austin - Stanford Encyclopedia of Philosophy](https://plato.sta
 - **Knowing functions more like a promise**
 - Knowledge is a basic form of apprehension of how things are, rather than a hybrid of belief conjoined with additional conditions
 
-### Premliminary Notes on Austin
-
-- [CLICK HERE](https://github.com/donkeyanaphora/STEERING_EXPERIMENTS/main/notes/other_minds.md)
-  
 ---
 
 ## Thoughts
