@@ -38,7 +38,7 @@ To which we can respond that we don't *know*, we *believe*.
 "He is angry"
     "Do you know he is?"
            ↙          ↘
-        "Yes"        "No but I think there is"
+        "Yes"        "No but I think he is"
           ↓                    ↓
    "How do you know?"        "Why?"
 ```
