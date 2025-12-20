@@ -25,22 +25,22 @@ To which we can respond that we don't *know*, we *believe*.
 
 ### Example 1: The Goldfinch
 ```
-"There is a goldfinch in the garden"
-    "Do you know there is?"
+A: "There is a goldfinch in the garden"
+B: "Do you know there is?"
            ↙          ↘
-        "Yes"        "No, but I think/believe there is"
+A:      "Yes"        "No, but I think/believe there is"
           ↓                    ↓
-   "How do you know?"        "Why?"
+B: "How do you know?"        "Why?"
 ```
 
 ### Example 2: Anger
 ```
-"He is angry"
-    "Do you know he is?"
+A: "He is angry"
+B: "Do you know he is?"
            ↙          ↘
-        "Yes"        "No but I think he is"
+A:      "Yes"        "No but I think he is"
           ↓                    ↓
-   "How do you know?"        "Why?"
+B: "How do you know?"        "Why?"
 ```
 
 ### Key Distinction
