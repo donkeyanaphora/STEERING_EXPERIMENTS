@@ -79,6 +79,7 @@ Should also consider non-factual model response variability too
 
 
 ## Usage
+Right now focusing on final layer workflow leveraging framework/unified representation introduced by [Park et al. (2024)](https://arxiv.org/pdf/2311.03658) (may change approach if need to probe other layers arises).
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/donkeyanaphora/STEERING_EXPERIMENTS/blob/main/notebooks/llama_causal_probe.ipynb)
 
