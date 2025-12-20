@@ -2,7 +2,7 @@
 
 Work in progress notes & experiments on sycophantic behavior in instruction-tuned LLMs, with an focus on stance reversal behavior and activation steering.
 
-**Motivating question:** Do models sometimes treat a user’s avowal (“I think X”, “Actually it’s X”) as **epistemically privileged evidence**—mistaking a *report of belief* for a *reason for belief* (Austin framing)?
+**Motivating question:** Do models sometimes treat a user’s avowal (“I think X”, “Actually it’s X”) as **epistemically privileged evidence**, mistaking a *report of belief* for a *reason for belief* (Austin framing)?
 
 > This is just how I’m thinking about it now; the direction may shift.
 
