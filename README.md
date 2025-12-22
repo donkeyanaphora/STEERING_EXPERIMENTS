@@ -11,7 +11,7 @@ Work in progress notes & experiments on sycophantic behavior in instruction-tune
 1. To what extent (if any) does an LLM treat the user's propositional attitudes as epistemically privileged evidence (in Austin's words: a report of belief is being mistaken for a reason for belief)?
 2. Does the model treat a user’s avowal as evidence about the **world**, or as evidence about the user’s **mental state/beliefs**?
 3. Does a model even need to differentiate those two to reward-hack / exhibit sycophantic behavior?
-4. When does a model shift position toward a user’s claim **without new evidence**?
+4. In what situations/context does a model shift position toward a user’s claim **without new evidence**?
 5. Which user cues (challenge markers, confidence, status claims, tone) most reliably trigger answer reversals/flips?
 6. Can we reduce epistemic deference via steering without broadly making the model defiant, unwilling to follow instructions, or rude/unhelpful?
 7. In instruction-following, what assumptions or user propositional attitudes does the model need to treat as “given” for the conversation to work, and when does it treat **too much** as given (sycophancy) or **too little** as given (needless skepticism/defiance)?
