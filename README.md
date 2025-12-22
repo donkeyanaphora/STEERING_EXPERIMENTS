@@ -123,18 +123,92 @@ Reference: [J.L. Austin — Stanford Encyclopedia of Philosophy](https://plato.s
 * **Knowing functions more like a promise**
 * Knowledge is a basic form of apprehension of how things are (not belief + extra conditions)
 
-## Benchmark
 
-* [Sycophancy Eval](https://github.com/meg-tong/sycophancy-eval/blob/main/README.md)
 
 ## Resources
 
+### Core sycophancy (what it is, why it happens, etc)
+
+- ⭐ [Towards Understanding Sycophancy in Language Models (Sharma et al., 2023) — arXiv](https://arxiv.org/abs/2310.13548)
+- [Towards Understanding Sycophancy in Language Models — Anthropic research page](https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models)
+
+### Stance reversals / challenge-induced flips 
+
+- ⭐ [Are You Sure? Challenging LLMs Leads to Performance Drops in The FlipFlop Experiment (Laban et al., 2024)](https://arxiv.org/abs/2311.08596)
+- [Ask Again, Then Fail: Large Language Models' Vacillations in Judgment (Xie et al., 2023/ACL 2024)](https://arxiv.org/abs/2310.02174)
+
+### Benchmarks, datasets, and eval suites
+
+- [Sycophancy Eval](https://github.com/meg-tong/sycophancy-eval/blob/main/README.md)
+- [SYCON Bench: Measuring Sycophancy of Language Models in Multi-turn Dialogues (Hong et al., 2025)](https://arxiv.org/abs/2505.23840)
+- [SYCON-Bench (code/data repo)](https://github.com/JiseungHong/SYCON-Bench)
+- [GASLIGHTBENCH: Quantifying LLM Susceptibility to Social Prompting (Cui et al., 2025)](https://openreview.net/forum?id=0BYRYwGCbK)
+- [MultiChallenge: A Realistic Multi-Turn Conversation Evaluation Benchmark (2025)](https://arxiv.org/abs/2501.17399)
+- [MultiChallenge (ACL Anthology page)](https://aclanthology.org/2025.findings-acl.958/)
+
+### Mitigation / targeted interventions 
+
+- [From Yes-Men to Truth-Tellers: Addressing Sycophancy in LLMs with Pinpoint Tuning (Chen et al., 2024)](https://arxiv.org/abs/2409.01658)
+
+### Steering / representation methods 
+
+- ⭐[The Linear Representation Hypothesis and the Geometry of Large Language Models (Park et al., 2023) — arXiv](https://arxiv.org/abs/2311.03658)
+- ⭐ [Steering Language Models With Activation Engineering (Turner et al., 2023)](https://arxiv.org/abs/2308.10248)
+- [Improving Instruction-Following in Language Models through Activation Steering (Stolfo et al., 2024/ICLR 2025)](https://arxiv.org/abs/2410.12877)
+- [Representation Engineering for Large-Language Models (2025)](https://arxiv.org/abs/2502.17601)
+- [Activation Scaling for Steering and Interpreting Language Models (2024)](https://aclanthology.org/2024.findings-emnlp.479.pdf)
+- [Modulating Sycophancy in an RLHF Model via Activation Steering (LessWrong)](https://www.lesswrong.com/posts/raoeNarFYCxxyKAop/modulating-sycophancy-in-an-rlhf-model-via-activation)
+
+### Calibration / epistemic humility (measuring deference vs truth)
+
+- ⭐ [TruthfulQA: Measuring How Models Mimic Human Falsehoods (Lin, Hilton, Evans, 2021)](https://arxiv.org/abs/2109.07958)
+- [TruthfulQA (benchmark repo)](https://github.com/sylinrl/TruthfulQA)
+- [Can LLMs Express Their Uncertainty? (Xiong et al., 2023/ICLR 2024)](https://arxiv.org/abs/2306.13063)
+- [Taming Overconfidence in LLMs: Reward Calibration in RLHF (Leng et al., 2024/ICLR 2025)](https://arxiv.org/abs/2410.09724)
+
+### Alignment training context / preference learning (why these behaviors emerge)
+
+- ⭐ [Training language models to follow instructions with human feedback / InstructGPT (Ouyang et al., 2022)](https://arxiv.org/abs/2203.02155)
+- ⭐ [Direct Preference Optimization (DPO) (Rafailov et al., 2023)](https://arxiv.org/abs/2305.18290)
+- ⭐ [Deep Reinforcement Learning from Human Preferences (Christiano et al., 2017)](https://arxiv.org/abs/1706.03741)
+- [Auditing Hidden Objectives — Anthropic](https://www.anthropic.com/research/auditing-hidden-objectives)
+- [Reward Tampering — Anthropic](https://www.anthropic.com/research/reward-tampering)
+
+### Social conformity / peer pressure / persuasion
+
+- [Disentangling the Drivers of LLM Social Conformity (Zhong et al., 2025)](https://arxiv.org/abs/2508.14918)
+- [When Your AI Agent Succumbs to Peer-Pressure: Studying Opinion-Change Dynamics of LLMs (Mehdizadeh & Hilbert, 2025)](https://arxiv.org/abs/2510.19107)
+- [LLMs Can't Handle Peer Pressure: Crumbling under Multi-Agent Social Interactions / KAIROS (Song et al., 2025)](https://arxiv.org/abs/2508.18321)
+- [On the conversational persuasiveness of GPT-4 (Salvi et al., 2025, Nature Human Behaviour)](https://www.nature.com/articles/s41562-025-02194-6)
+
+### Pragmatics / epistemology
+
+- ⭐ [Other Minds (Austin, 1946) — PDF](https://web.stanford.edu/~paulsko/papers/Austin_OM.pdf)
+- ⭐ [Common Ground (Stalnaker, 2002) — PDF](https://semantics.uchicago.edu/kennedy/classes/f07/pragmatics/stalnaker02.pdf)
+- ⭐ [Epistemic Vigilance (Sperber et al., 2010) — PDF](https://www.dan.sperber.fr/wp-content/uploads/2010_clement-et-al_epistemic-vigilance.pdf)
+- [John Langshaw Austin — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/austin-jl/)
+
+### Useful tools, people, and demos (for day-to-day research work)
+
+- [Nina Panickssery's Research](https://ninapanickssery.com/research)
+- [Neuronpedia](https://www.neuronpedia.org)
+- [Eiffel Tower Llama Demo](https://huggingface.co/spaces/dlouapre/eiffel-tower-llama)
+- [Extracting Concepts from LLMs: Anthropic's Recent Discoveries (HuggingFace blog)](https://huggingface.co/blog/m-ric/extracting-concepts-from-llms)
+
+
+<!-- ## Benchmark
+
+* [Sycophancy Eval](https://github.com/meg-tong/sycophancy-eval/blob/main/README.md)
+
+## Resources General
+
 * [The Linear Representation Hypothesis and the Geometry of Large Language Models](https://arxiv.org/pdf/2311.03658) — Park et al. (2024)
 * [Auditing Hidden Objectives](https://www.anthropic.com/research/auditing-hidden-objectives)
+* [Are You Sure? Challenging LLMs Leads to Performance Drops in The FlipFlop Experiment](https://arxiv.org/abs/2311.08596?)
 * [Reward Tampering](https://www.anthropic.com/research/reward-tampering)
 * [Towards Understanding Sycophancy in Language Models](https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models)
 * [Modulating Sycophancy in an RLHF Model via Activation Steering](https://www.lesswrong.com/posts/raoeNarFYCxxyKAop/modulating-sycophancy-in-an-rlhf-model-via-activation)
 * [Nina Panickssery's Research](https://ninapanickssery.com/research)
 * [Neuronpedia](https://www.neuronpedia.org)
 * [Eiffel Tower Llama Demo](https://huggingface.co/spaces/dlouapre/eiffel-tower-llama)
-* [Extracting Concepts from LLMs: Anthropic's Recent Discoveries](https://huggingface.co/blog/m-ric/extracting-concepts-from-llms) — HuggingFace blog
+* [Extracting Concepts from LLMs: Anthropic's Recent Discoveries](https://huggingface.co/blog/m-ric/extracting-concepts-from-llms) — HuggingFace blog -->
