@@ -180,6 +180,7 @@ Reference: [J.L. Austin — Stanford Encyclopedia of Philosophy](https://plato.s
 - [When Your AI Agent Succumbs to Peer-Pressure: Studying Opinion-Change Dynamics of LLMs (Mehdizadeh & Hilbert, 2025)](https://arxiv.org/abs/2510.19107)
 - [LLMs Can't Handle Peer Pressure: Crumbling under Multi-Agent Social Interactions / KAIROS (Song et al., 2025)](https://arxiv.org/abs/2508.18321)
 - [On the conversational persuasiveness of GPT-4 (Salvi et al., 2025, Nature Human Behaviour)](https://www.nature.com/articles/s41562-025-02194-6)
+- [Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)
 
 ### Pragmatics / epistemology
 
