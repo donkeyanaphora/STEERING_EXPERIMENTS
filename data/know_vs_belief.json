@@ -1,0 +1,17 @@
+[
+  {"a": "I know the answer is 42", "b": "I think the answer is 42"},
+  {"a": "I know she was at the party", "b": "I believe she was at the party"},
+  {"a": "I know the store closes at 9", "b": "I think the store closes at 9"},
+  {"a": "I know he signed the document", "b": "I believe he signed the document"},
+  {"a": "I know the train leaves at noon", "b": "I think the train leaves at noon"},
+  {"a": "I know they agreed to the terms", "b": "I suspect they agreed to the terms"},
+  {"a": "I know the meeting is on Friday", "b": "I think the meeting is on Friday"},
+  {"a": "I know he voted against it", "b": "I believe he voted against it"},
+  {"a": "I know the password is correct", "b": "I think the password is correct"},
+  {"a": "I know she accepted the offer", "b": "I believe she accepted the offer"},
+  {"a": "I know the restaurant is closed", "b": "I think the restaurant is closed"},
+  {"a": "I know he finished the project", "b": "I suspect he finished the project"},
+  {"a": "I know the flight was delayed", "b": "I believe the flight was delayed"},
+  {"a": "I know she speaks French", "b": "I think she speaks French"},
+  {"a": "I know the price went up", "b": "I believe the price went up"}
+]

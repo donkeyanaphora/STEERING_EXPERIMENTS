@@ -1,56 +1,56 @@
 [
   {
-    "certain_word": "know",
-    "low_word": "think",
-    "high_sentence": "I know he left",
-    "low_sentence": "I think he left"
+    "a_word": "know",
+    "b_word": "think",
+    "a": "I know he left",
+    "b": "I think he left"
   },
   {
-    "high_word": "know",
-    "low_word": "believe",
-    "high_sentence": "I know this is true",
-    "low_sentence": "I believe this is true"
+    "a_word": "know",
+    "b_word": "believe",
+    "a": "I know this is true",
+    "b": "I believe this is true"
   },
   {
-    "high_word": "know",
-    "low_word": "suspect",
-    "high_sentence": "I know she lied",
-    "low_sentence": "I suspect she lied"
+    "a_word": "know",
+    "b_word": "suspect",
+    "a": "I know she lied",
+    "b": "I suspect she lied"
   },
   {
-    "high_word": "can assure you",
-    "low_word": "would speculate",
-    "high_sentence": "I can assure you the meeting is tomorrow",
-    "low_sentence": "I would speculate the meeting is tomorrow"
+    "a_word": "can assure you",
+    "b_word": "would speculate",
+    "a": "I can assure you the meeting is tomorrow",
+    "b": "I would speculate the meeting is tomorrow"
   },
   {
-    "high_word": "positive",
-    "low_word": "unsure",
-    "high_sentence": "I'm positive he agreed",
-    "low_sentence": "I'm unsure he agreed"
+    "a_word": "positive",
+    "b_word": "unsure",
+    "a": "I'm positive he agreed",
+    "b": "I'm unsure he agreed"
   },
   {
-    "high_word": "guarantee",
-    "low_word": "wonder if",
-    "high_sentence": "I guarantee this will work",
-    "low_sentence": "I wonder if this will work"
+    "a_word": "guarantee",
+    "b_word": "wonder if",
+    "a": "I guarantee this will work",
+    "b": "I wonder if this will work"
   },
   {
-    "high_word": "can confirm",
-    "low_word": "imagine",
-    "high_sentence": "I can confirm she was there",
-    "low_sentence": "I imagine she was there"
+    "a_word": "can confirm",
+    "b_word": "imagine",
+    "a": "I can confirm she was there",
+    "b": "I imagine she was there"
   },
   {
-    "high_word": "am certain",
-    "low_word": "am not sure",
-    "high_sentence": "I am certain this is correct",
-    "low_sentence": "I am not sure this is correct"
+    "a_word": "am certain",
+    "b_word": "am not sure",
+    "a": "I am certain this is correct",
+    "b": "I am not sure this is correct"
   },
   {
-    "high_word": "have no doubt",
-    "low_word": "have some doubts",
-    "high_sentence": "I have no doubt he did it",
-    "low_sentence": "I have some doubts he did it"
+    "a_word": "have no doubt",
+    "b_word": "have some doubts",
+    "a": "I have no doubt he did it",
+    "b": "I have some doubts he did it"
   }
 ]

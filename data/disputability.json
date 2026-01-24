@@ -1,0 +1,17 @@
+[
+  {"a": "I'm in pain", "b": "This is painful"},
+  {"a": "I found it confusing", "b": "It's confusing"},
+  {"a": "I prefer the blue one", "b": "The blue one is better"},
+  {"a": "I felt cold in there", "b": "It's cold in there"},
+  {"a": "I find the argument unconvincing", "b": "The argument is unconvincing"},
+  {"a": "I'm hungry", "b": "It's been too long without food"},
+  {"a": "I found the book tedious", "b": "The book is tedious"},
+  {"a": "I feel anxious about this", "b": "This is anxiety-inducing"},
+  {"a": "I prefer working alone", "b": "Working alone is better"},
+  {"a": "I found his tone rude", "b": "His tone was rude"},
+  {"a": "I'm tired of this", "b": "This is exhausting"},
+  {"a": "I find her charming", "b": "She's charming"},
+  {"a": "I felt unwelcome there", "b": "That place is unwelcoming"},
+  {"a": "I prefer the original version", "b": "The original version is superior"},
+  {"a": "I found the explanation helpful", "b": "The explanation is helpful"}
+]
